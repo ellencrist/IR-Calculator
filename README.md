@@ -1,3 +1,6 @@
+[![Translate to English](https://img.shields.io/badge/Translate%20to-English-blue)](https://translate.google.com/translate?sl=pt&tl=en&u=https://github.com/ellencrist/IR-Calculator)
+
+
 # Calculadora de Imposto de Renda em Java
 
 Este é um projeto Java que implementa uma simples Calculadora de Imposto de Renda (IR) com uma interface gráfica. Ele permite calcular o valor do Imposto de Renda com base em um valor de contrato e uma alíquota selecionada. Aqui estão as informações sobre como usar e compilar o projeto.
