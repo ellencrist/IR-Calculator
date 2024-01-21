@@ -65,3 +65,5 @@ Lembre-se de que o arquivo JAR deve estar na mesma pasta que os arquivos de recu
 
 - O campo de valor do contrato permite a entrada de números com ou sem vírgulas. As vírgulas serão removidas para cálculos adequados.
 - O resultado é exibido com duas casas decimais.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
